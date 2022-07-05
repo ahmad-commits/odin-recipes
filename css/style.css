@@ -1,33 +1,30 @@
 .body {
-    font-family: sans-serif;
     background-color: black;
+    text-align: center;
 }
-.link1:link {
-    color: red;
-}
-.link2:link {
-    color: green;
-}
-.link3:link {
-    color: blue;
-}
-.l1 .l2 .l3 {
-    font-family: sans-serif;
 
-}
 .recipe-head {
+    font-family: Montserrat, sans-serif;
     color: white;
     text-align: center;
+    border: 3px solid white;
+    border-radius: 25px;
 }
 .l1 {
-    font-size: 38px;
-    text-align: center;
+    font-size: 25px;
+    border: 2px solid blue;
+    font-family: sans-serif;
+    border-radius: 25px;
 }
 .l2 {
-    font-size: 37px;
-    text-align: center;
+    font-size: 25px;
+    border: 2px solid blue;
+    font-family: sans-serif;
+    border-radius: 25px;
 }
 .l3 {
-    font-size: 36px;
-    text-align: center;
+    font-size: 25px;
+    border: 2px solid blue;
+    font-family: sans-serif;
+    border-radius: 25px;
 }
