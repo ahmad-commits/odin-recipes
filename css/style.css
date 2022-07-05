@@ -1,4 +1,4 @@
-.body {
+.body-index {
     background-color: black;
     text-align: center;
 }
@@ -27,4 +27,22 @@
     border: 2px solid blue;
     font-family: sans-serif;
     border-radius: 25px;
+}
+/* Styles for banillacake.html*/
+.banilla-index {
+    background-color: #121212;
+    color: white;
+
+}
+.banilla-head {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid white;
+}
+.banilla-image {
+    height: 500px;
+    width: 500px;
+    border: 2px solid #121212;
+    border-radius: 25pc;
 }
