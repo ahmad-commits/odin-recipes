@@ -34,15 +34,25 @@
     color: white;
 
 }
-.banilla-head {
-    font-family: sans-serif;
-    text-align: center;
-    font-weight: bold;
-    border: 2px solid white;
-}
 .banilla-image {
     height: 500px;
     width: 500px;
     border: 2px solid #121212;
     border-radius: 25pc;
+}
+.banilla-head .description {
+    font-family: "Gentium Book Plus";
+}
+.banilla-head {
+    border: 1px solid white;
+    text-align: center;
+}
+.description-banilla-head {
+    color: rgb(209, 119, 40);
+}
+.description-banilla {
+    color: peachpuff;
+}
+.ingredients-banilla-head {
+    color: rgb(209, 119, 40);
 }
