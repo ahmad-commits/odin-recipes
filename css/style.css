@@ -36,8 +36,11 @@
 
 }
 .banilla-image {
-    height: 500px;
-    width: 500px;
+    display: block;
+    height: auto;
+    width: 20pc;
+    margin-left: auto;
+    margin-right: auto;
     border: 2px solid #121212;
     border-radius: 25pc;
 }
@@ -94,4 +97,27 @@
     background-color: rgb(170, 85, 29);
 }
 li::before {content: "•"; color: peachpuff;display: inline-block; width: 1em;
-  margin-left: -1em}
+  margin-left: -1em
+}
+/* Styles for texascoleslaw.html */
+
+#coleslaw-body {
+    color: white;
+    background-color: #121212;
+}
+.texas-head {
+    font-size: 30px;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+.coleslaw-img {
+    display: block;
+    height: 30pc;
+    width:30pc;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    border-radius: 20pc;
+}
