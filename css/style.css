@@ -1,3 +1,4 @@
+/* Styles for index page */
 .body-index {
     background-color: black;
     text-align: center;
@@ -55,4 +56,39 @@
 }
 .ingredients-banilla-head {
     color: rgb(209, 119, 40);
+}
+/* Styles for lasagna.html */
+#lasagna {
+    background-color: #121212; 
+}
+.lasagna-head {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 5pc;
+}
+.lasagna-image {
+display: block;
+ height: auto;
+ width: 28pc;
+ border: 4px solid white;
+ border-radius : 40pc;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+.disc-lasagna {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.disc-parent {
+    color: peachpuff;
+}
+.ul-ing {
+    background-color: white;
 }
