@@ -71,7 +71,7 @@
     border-radius: 5pc;
 }
 .lasagna-image {
-display: block;
+ display: block;
  height: auto;
  width: 28pc;
  border: 4px solid white;
@@ -90,5 +90,8 @@ display: block;
     color: peachpuff;
 }
 .ul-ing {
-    background-color: white;
+    list-style: none;
+    background-color: rgb(170, 85, 29);
 }
+li::before {content: "•"; color: peachpuff;display: inline-block; width: 1em;
+  margin-left: -1em}
